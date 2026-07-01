@@ -120,25 +120,6 @@ Global-Space-Missions-Analysis/
 - Top Rockets
 - Global Mission Map
 
----
-
-# Dashboard Preview
-
-## Executive Summary
-
-> Add screenshot here
-
-![Executive Dashboard](images/dashboard1.png)
-
----
-
-## Detailed Analysis
-
-> Add screenshot here
-
-![Detailed Dashboard](images/dashboard2.png)
-
----
 
 # Key Business Insights
 
