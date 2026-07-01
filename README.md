@@ -1,3 +1,6 @@
+<img width="1774" height="887" alt="Project Banner" src="https://github.com/user-attachments/assets/c385388a-6b55-4d75-bae1-2a8a0ec495b0" />
+
+
 # 🚀 Global Space Missions Analysis (1957–2022)
 
 An end-to-end Data Analytics project that analyzes over 4,500 global space missions conducted between 1957 and August 2022 using **Python, MySQL, Power BI, and DAX**.
